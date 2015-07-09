@@ -3,7 +3,7 @@ title:       Tim Potter
 email:       tpot@frungy.org
 author:      Tim Potter
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/tpot.gitub.io"
+baseurl:     ""
 url:         "http://tpot.github.io"
 
 # Google analytics
