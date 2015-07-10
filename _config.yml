@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://frungy.org"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-16443460-1
 
 # Optional features
 animated:           false
