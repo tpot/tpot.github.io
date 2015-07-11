@@ -14,6 +14,7 @@ layout: default
             {{ post.summary }}
           {% else %}
             {{ post.excerpt }}
+    <p><a class="btn btn-sm btn-primary" href="{{ post.url }}" role="button">Read the full article <i class="fa fa-arrow-circle-right"></i></a>
           {% endif %}
         </p>
       </div>
