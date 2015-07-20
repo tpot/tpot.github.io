@@ -1,19 +1,16 @@
 ---
 layout: page
-title: About Pixyll
+title: About Me
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Hi everyone.  I'm a Linux and Open Source guy from way back.  I've been
+involved in a lot of different projects over the years, including <a
+href="http://samba.org/">Samba</tt>, <a
+href="http://debian.org/">Debian</a>, <a
+href="http://openpegasus.org/">OpenPegasus</a> and a bunch more.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I've been employed at HP since 2001 working on supporting Linux on HP
+hardware and writing and contributing to Open Source software.
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+My hobbies are poetry and lifting heavy things.
