@@ -27,6 +27,10 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
   display: block;
 }
 
+figure {
+  width: 100%;
+}
+
 body {
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
   line-height: 1.5rem;
