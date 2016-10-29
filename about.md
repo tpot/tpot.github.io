@@ -10,7 +10,7 @@ href="http://samba.org/">Samba</tt>, <a
 href="http://debian.org/">Debian</a>, <a
 href="http://openpegasus.org/">OpenPegasus</a> and a bunch more.
 
-I've been employed at Hewlett-Packard, now Hewlett Packard enterprise 
+I've been employed at Hewlett-Packard, now Hewlett Packard Enterprise,
 since 2001 working on supporting Linux on HP/HPE hardware as well as writing 
 and contributing to Open Source software.
 
